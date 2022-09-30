@@ -1,9 +1,26 @@
 {
+	// Font
 	"font_face": "JetBrains Mono",
-	"font_size": 13,
+	"font_size": 14,
+
+	// Packages
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage",
 	],
+
+	// Theme and colors
 	"color_scheme": "Mariana.sublime-color-scheme",
+	"theme": "auto",
+
+	// Behavior
+	"highlight_line": false,
+	"show_line_endings": true,
+	"remember_layout": true,
+
+	// Caret
+	"caret_style": "smooth",
+	"caret_extra_top": 0,
+	"caret_extra_bottom": 0,
 }
