@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"JsPrettier",
+		"LSP",
+		"LSP-css",
+		"LSP-eslint",
+		"LSP-html",
+		"LSP-json",
+		"LSP-typescript",
+		"MarkdownEditing",
+		"Package Control",
+		"ScopeHunter",
+		"Terminal",
+		"Theme - One Dark",
+	],
+}
