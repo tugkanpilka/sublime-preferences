@@ -3,6 +3,23 @@
 	"show_diagnostics_panel_on_save": 0,
 	"show_diagnostics_count_in_view_status": true,
 	"document_highlight_style": "background",
-	"semantic_highlighting": true,
+	"hover_highlight_style": "underline",
+  	"semantic_highlighting": true,
 	"show_inlay_hints": true,
+	"show_references_in_quick_panel": true,
+  	"show_code_lens": "phantom",
+	"diagnostics_gutter_marker": "dot",
+		"diagnostics_highlight_style": {
+	    "error": "box",
+	    "warning": "squiggly",
+	    "info": "stippled",
+	    "hint": "box"
+  	},
+    "clients": {
+        "quick-lint-js": {
+            "command": ["quick-lint-js", "--lsp-server"],
+            "enabled": true,
+            "selector": "source.js"
+        }
+    }
 }
