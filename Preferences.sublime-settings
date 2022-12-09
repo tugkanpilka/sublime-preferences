@@ -1,7 +1,7 @@
 {
 	// Font
 	"font_face": "JetBrains Mono",
-	"font_size": 14,
+	"font_size": 15,
 
 	// Packages
 	"ignored_packages":
@@ -14,7 +14,7 @@
 
 	// Theme and colors
 	"color_scheme": "Mariana.sublime-color-scheme",
-	"theme": "auto",
+	"theme": "Default Dark.sublime-theme",
 
 	// Behavior
 	"highlight_line": false,
@@ -23,7 +23,7 @@
 
 	// Caret
 	"block_caret": true,
-	"caret_style": "smooth",
+	"caret_style": "solid",
 	"caret_extra_top": 0,
 	"caret_extra_bottom": 0,
 	"auto_complete": true,

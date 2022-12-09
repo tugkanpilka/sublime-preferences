@@ -6,10 +6,17 @@
 	"installed_packages":
 	[
 
+		"gruvbox",
 		"JsPrettier",
 		"LSP",
+		"LSP-copilot",
 		"LSP-eslint",
 		"LSP-typescript",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"npm-install",
+		"Origami",
 		"Package Control",
+		"SideBarEnhancements",
 	],
 }
