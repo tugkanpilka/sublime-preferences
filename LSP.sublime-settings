@@ -7,8 +7,7 @@
   	"semantic_highlighting": true,
 	"show_inlay_hints": true,
 	"show_references_in_quick_panel": true,
-  	"show_code_lens": "phantom",
-  	"log_debug": true,
+  	"show_code_lens": "annotation",
 	"diagnostics_gutter_marker": "dot",
 		"diagnostics_highlight_style": {
 	    "error": "box",
@@ -22,5 +21,5 @@
             "enabled": true,
             "selector": "source.js"
         }
-    }
+    },
 }
