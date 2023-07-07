@@ -15,17 +15,12 @@
 		"Theme - One Dark",
 	],
 
-	"block_caret_style": "solid",
-
-	"auto_hide_status_bar": true,
-
-	// Theme and colors
-	"color_scheme": "Mariana.sublime-color-scheme",
 	"theme": "Default Dark.sublime-theme",
 
 	// Behavior
 	"show_line_endings": true,
 	"remember_layout": true,
+	"show_rel_path": true,
 
 	// Caret
 	
